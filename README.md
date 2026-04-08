@@ -1,4 +1,4 @@
-# Hi there, I'm Nursena! 
+# Hi there
 ![Snake animation](https://raw.githubusercontent.com/NurSenaKaraduman/NurSenaKaraduman/output/github-contribution-grid-snake.svg)
 
 ### 🎮 Aspiring Game Developer | Software Engineering Student
