@@ -1,4 +1,4 @@
-# Hi there, I'm Nursena! 👋
+# Hi there, I'm Nursena! 
 ![Snake animation](https://raw.githubusercontent.com/NurSenaKaraduman/NurSenaKaraduman/output/github-contribution-grid-snake.svg)
 
 ### 🎮 Aspiring Game Developer | Software Engineering Student
@@ -8,7 +8,7 @@
 - 🎓 **Fırat University** | Software Engineering Student (1st Year)
 - 🕹️ Developing fundamental games with **JavaFX** to master game logic.
 - 🌍 Goal: **Integrating Artificial Intelligence with the creativity of the gaming world.** 🤖✨
-- 🎨 Passionate about digital art and creative coding.
+- 🎨 Passionate about art and philosophy.
 
 ---
 
