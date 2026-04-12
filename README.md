@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 - 🎓 **Fırat University** | Software Engineering Student (1st Year)
 - 🕹️ Developing fundamental games with **JavaFX** to master game logic.
-- 🌍 Goal: **Integrating Artificial Intelligence with the creativity of the gaming world.** 🤖✨
+- 🌍 Goal: **Integrating Artificial Intelligence with the creativity of the gaming world.** 🤖
 - 🎨 Passionate about art and philosophy.
 
 ---
@@ -22,8 +22,8 @@
 
 ---
 
-## 🏗️ Ongoing Projects
-- [x] **JavaFX Game Lab:** Currently building a **Breakout Game** to learn physics and collision. 🧱🏐
+## Ongoing Projects
+- [x] **JavaFX Game Lab:** Currently building a **Breakout Game** to learn physics and collision. 
 
 ---
 
