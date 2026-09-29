@@ -2,34 +2,44 @@
 
 ![Snake animation](https://raw.githubusercontent.com/NurSenaKaraduman/NurSenaKaraduman/output/github-contribution-grid-snake.svg)
 
- Software Engineering Student | Exploring AI & Data Science
+ ### 🤖 Software Engineering Student | Exploring AI & Data Science
 
-👩‍💻 About Me
+---
 
-🎓 Studying Software Engineering at Fırat University.
-🐍 Working with Python, SQL, and pandas to explore, process, and analyze data.
-   Currently learning machine learning, focusing on the fundamentals and applying them through projects.
-   Building LLM-powered agents and bots, exploring prompt engineering, conversational memory, and character-driven interactions.
-   My goal is to build practical AI applications backed by a strong foundation in data and machine learning.
-🎨 Interested in art, philosophy, and their connections to creativity and human–AI interaction.
---------------
-🛠️ Toolkit
+## 👩‍💻 About Me
 
-Languages & Data: Python · SQL · pandas
-AI & LLM Tools: Ollama · Mistral · Prompt Engineering
-Development: Git · Java
-Currently Learning: Machine Learning
---------------
-Featured Projects
+- 🎓 Studying **Software Engineering at Fırat University**.
+- 🐍 Working with **Python, SQL, and pandas** to explore, process, and analyze data.
+- 🧠 Learning **machine learning** and applying the fundamentals through projects.
+- 🤖 Building **LLM-powered agents and bots**, with an interest in prompt engineering and conversational memory.
+- 🎯 My goal is to develop **practical AI applications** with a strong foundation in data and machine learning.
+- 🎨 Interested in **art and philosophy**.
 
-🤖 Roleplay Agent
-A local roleplay agent built with Ollama and Mistral, featuring persistent memory, character and persona layers, and automatic conversation summarization. A hands-on project for exploring context management and continuity in LLM conversations.
+---
 
+## 🛠️ Toolkit
 
-💬 Bot Project — In Development
-A bot I am actively developing to put my Python skills into practice and explore conversational interactions.
+| Area | Technologies & Interests |
+| --- | --- |
+| Programming & Data | Python · SQL · pandas |
+| AI & LLMs | Ollama · Mistral · Prompt Engineering |
+| Other Tools & Languages | Git · Java |
+| Currently Learning | Machine Learning |
 
---------------
+---
+
+## 🚀 Featured Projects
+
+- 🤖 **Roleplay Agent**  
+  A local roleplay agent built with **Ollama and Mistral**, featuring persistent memory, character and persona layers, and automatic conversation summarization.
+
+- 💬 **Bot Project · In Development**  
+  A bot I’m currently developing with **Python**, exploring conversational interactions as the project evolves.
+
+- 📚 **Personal Library**  
+  A digital collection of the books in my personal library, showing which ones I’ve read and which I haven’t.
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NurSenaKaraduman&show_icons=true&theme=transparent&hide_border=true" height="150px"/>
